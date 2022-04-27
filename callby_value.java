@@ -5,7 +5,7 @@ public class callby_value {
 //
 //void chage(int data) {
 //	num = data+100;
-//System.out.println(num);//223
+//System.out.println(num);// qwertyuiopogfdsasdfghjklkjbvcxzxcvbnm,
 //	
 //}
 //	public static void main(String[] args) {
