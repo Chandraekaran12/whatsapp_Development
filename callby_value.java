@@ -30,7 +30,7 @@ public class callby_value {
 	   System.out.println("after change "+op.data1);  
 	   System.out.println(op.data1);
 	  
-
+hide
 
 }
 
